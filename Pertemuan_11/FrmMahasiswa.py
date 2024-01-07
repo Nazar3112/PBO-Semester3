@@ -1,7 +1,7 @@
 # Nama file : FrmMahasiswa.py
 import tkinter as tk
 from tkinter import Frame,Label,Entry,Button,Radiobutton,ttk,VERTICAL,YES,BOTH,END,Tk,W,StringVar,messagebox
-from Mahasiswa import matakuliah
+from Mahasiswa import Mahasiswa
 
 class FormMahasiswa:
     
